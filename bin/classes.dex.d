@@ -1,2 +1,2 @@
-C:\Users\Steve\AutomationTest\FirstAppTest\bin\classes.dex : \
-C:\Users\Steve\AutomationTest\FirstAppTest\bin\classes\com\linhnguyen\test\FirstAppTest.class \
+D:\NguyenDuyLinh\Automation\ProjectTest\FirstAppTest\bin\classes.dex : \
+D:\NguyenDuyLinh\Automation\ProjectTest\FirstAppTest\bin\classes\com\linhnguyen\test\FirstAppTest.class \
